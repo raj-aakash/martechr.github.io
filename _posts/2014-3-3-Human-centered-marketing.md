@@ -26,7 +26,7 @@ This is where UX comes in. UX designers have been preaching for human-first appr
 
 UCD is an approach of designing solutions after observing, researching and evaluating the users' needs and iterating this cycle multiple times until the user's needs are completely met. Users are observed closely, in their home environment, to research different contexts of use. Solutions are built to solve these requirements and the users are observed interacting with this product. 
 
-![Human Centered Marketing](https://github.com/raj-aakash/martechr.github.io/blob/gh-pages/images/hcm.png)
+![https://github.com/raj-aakash/martechr.github.io/blob/gh-pages/images/hcm.png](https://github.com/raj-aakash/martechr.github.io/blob/gh-pages/images/hcm.png)
 
 The product is continuously evaluated against requirement and the iteration only ends when all the requirements are met. 
 
