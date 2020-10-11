@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+NOT a guru. DEFINITELY not an expert. I am a lifelong student who likes to learn.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[a.krish.raj@gmail.com](mailto:a.krish.raj@gmail.com)
