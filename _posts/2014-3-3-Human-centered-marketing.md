@@ -1,6 +1,3 @@
-layout: post
-title: Human Centered Marketing
-
 # Human Centered Marketing: How Incorporating UX design principles can 10x your marketing ROI.
 
 ***Summary:** This article details an unconventional approach to planning and executing marketing strategy that would result in a stronger brand,  satisfied customers and higher returns on marketing budget.* 
