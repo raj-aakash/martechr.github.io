@@ -1,7 +1,5 @@
----
 layout: post
 title: Human Centered Marketing
----
 
 # Human Centered Marketing: How Incorporating UX design principles can 10x your marketing ROI.
 
